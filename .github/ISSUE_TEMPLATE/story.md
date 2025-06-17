@@ -6,6 +6,7 @@ labels:
   - enhancement
 type: story
 assignees: ''
+estimate: 1
 body:
   - type: markdown
     attributes:
@@ -58,12 +59,6 @@ body:
         - [ ] Criterion 2
       required: true
 ---
-
-**STORY:**  
-<!-- Title of the User Story -->
-
-**ESTIMATE:**  
-<!-- Story points -->
 
 **IN ORDER TO:**  
 <!-- Goal this story supports -->
