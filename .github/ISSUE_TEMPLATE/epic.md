@@ -1,13 +1,10 @@
 ---
 name: Epic (Key Feature)
 about: High-level action that supports a Capability
-title: "[EPIC] "
-labels: epic
+title: ""
+type: epic
 assignees: ''
 ---
-
-**EPIC:**  
-<!-- Title of the Epic -->
 
 **IN ORDER TO:**  
 <!-- Goal this Epic supports -->
