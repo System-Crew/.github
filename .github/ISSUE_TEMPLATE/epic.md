@@ -1,6 +1,6 @@
 ---
-name: Epic (Key Feature)
-about: High-level action that supports a Capability
+name: Epic
+about: Key Feature - High-level action that supports a Capability
 title: ""
 type: epic
 assignees: ''
