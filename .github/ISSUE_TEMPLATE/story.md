@@ -3,8 +3,8 @@ name: Story
 about: User Story - Definition of a feature within an Epic from the user's perspective
 title: "<story title>"
 labels: 
-  - story
   - enhancement
+type: story
 assignees: ''
 body:
   - type: markdown
